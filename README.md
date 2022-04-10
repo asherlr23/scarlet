@@ -7,7 +7,7 @@ While you can run scarlet in pretty much any Scratch mod that supports stage adj
 The URL linked here is already development ready to work on osu!js-scarlet
 
 # Compiling osu!js-scarlet
-For compiling the project into a runnable HTML, Windows Executable etc. Use the packager specifically for TurboWarp projects; https://packager.turbowarp.org, with the following values:<br>
+For compiling the project into a runnable HTML, Standalone Executable etc. Use the packager specifically for TurboWarp projects; https://packager.turbowarp.org, with the following values:<br>
 
 <b>Framerate:</b> 240 (Can however be set lower as scarlet uses Delta Timing.)<br>
 <b>Interpolation:</b> Off
