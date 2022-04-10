@@ -2,6 +2,9 @@
 The 4th rewrite of osu!js, designed how we'd love osu! to look like & written entirely in Scratch.
 <br>
 
+# Disclaimer
+Everything is still very much a WIP! Every aspect of the game is prone to change with time!
+
 # Running/Editing osu!js-scarlet
 While you can run scarlet in pretty much any Scratch mod that supports stage adjusting, we highly recommend using [TurboWarp](https://turbowarp.org/editor?size=1920x1080&clones=Infinity&offscreen&limitless&fps=240&extension=https://mikedev101.github.io/turbo_networking.js).<br>
 The URL linked here is already development ready to work on osu!js-scarlet
