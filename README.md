@@ -15,4 +15,7 @@ For compiling the project into a runnable HTML, Standalone Executable etc. Use t
 <b>Infinite Clones:</b> On<br>
 <b>Remove Fencing:</b> On<br>
 <b>Remove Miscellaneous Limits:</b> On<br>
-<b>Custom Stage Size:</b> 1920x1080
+<b>Custom Stage Size:</b> 1920x1080<br>
+
+# Figma UI Document
+https://www.figma.com/file/NLD6ayT2w2Sli7b9sSuZ5G/Scarlet-UI
