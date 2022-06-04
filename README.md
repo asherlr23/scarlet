@@ -15,7 +15,7 @@ The URL linked here is already development ready to work on osu!js-scarlet
 For compiling the project into a runnable HTML, Standalone Executable etc. Use the packager specifically for TurboWarp projects; https://packager.turbowarp.org, with the following values:<br>
 
 <b>Framerate:</b> 240 (Can however be set lower as scarlet uses Delta Timing.)<br>
-<b>Interpolation:</b> Off
+<b>Interpolation:</b> Off<br>
 <b>High Quality Pen:</b> On IF, your fork utilizes the "Pen" extension. Otherwise you can leave this as Off<br>
 <b>Infinite Clones:</b> On<br>
 <b>Remove Fencing:</b> On<br>
